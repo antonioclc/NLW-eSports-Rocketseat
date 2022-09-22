@@ -7,13 +7,15 @@
 	</a> 
 	<a  href="https://www.linkedin.com/in/ant%C3%B4nio-campos/"  target="_blank"  rel="noreferrer">LinkedIn)</a>, 
 </p>
+<br>
+<br>
 <h2><strong>Tecnologias utilizadas</strong></h2>
 <p><strong>Linguagem:</strong> Typescript</p>
 <p><strong>Front-End:</strong> Vite, React, Tailwind, Radix, Phosphor</p>
 <p><strong>Back-End:</strong> NodeJs, Express, Prisma</p>
 <p><strong>Mobile:</strong> React Native, Expo, Phosphor</p>
-
-
+<br>
+<br>
 <h2>Sobre a Rocketseat</h2>
 <img src="https://miro.medium.com/max/1200/1*fs0ScMc45X9QEwno8G414A.png" />
 <p>Este projeto foi desenvolvido durante a semana do NLW - eSports (trilha Ignite), onde puder aprender na prática sobre desenvolvimento full-stack e também mobile, com aulas extremamente práticas, de alta qualidade e direto ao assunto. Foi bem intenso e fiquei muito satisfeito com tudo que consegui construir!</p>
