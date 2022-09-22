@@ -8,13 +8,11 @@
 	<a  href="https://www.linkedin.com/in/ant%C3%B4nio-campos/"  target="_blank"  rel="noreferrer">LinkedIn)</a>, 
 </p>
 <br>
-<br>
 <h2><strong>Tecnologias utilizadas</strong></h2>
 <p><strong>Linguagem:</strong> Typescript</p>
 <p><strong>Front-End:</strong> Vite, React, Tailwind, Radix, Phosphor</p>
 <p><strong>Back-End:</strong> NodeJs, Express, Prisma</p>
 <p><strong>Mobile:</strong> React Native, Expo, Phosphor</p>
-<br>
 <br>
 <h2>Sobre a Rocketseat</h2>
 <img src="https://miro.medium.com/max/1200/1*fs0ScMc45X9QEwno8G414A.png" />
